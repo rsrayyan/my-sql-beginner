@@ -1,0 +1,6 @@
+// create database in any databases
+
+create database sqldemo;
+
+// show database created
+show create database testing2;
